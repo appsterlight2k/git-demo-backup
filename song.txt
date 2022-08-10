@@ -3,3 +3,4 @@ wall of shields
 some two more lines
 of our song bla-bla-bla
 add one line more for testing "git merge" command without previously executed the command "git fetch" 
+the last one line in the song
