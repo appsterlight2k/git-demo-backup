@@ -10,3 +10,6 @@ that I've added
 
 some more test line
 add something
+
+= new line for git reset testing 23:42
+= another new line for testing "git commit --amend" and try to perform by the console
