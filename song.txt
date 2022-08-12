@@ -8,12 +8,4 @@ the last one line in the song
 there are two more lines
 that I've added
 
-some more test line
-add something
 
-= new line for git reset testing 23:42
-<<<<<<< HEAD
-= another new line for testing "git commit --amend" and try to perform by the console
-=======
-= another new line for testing "git commit --amend" and try to perform by the console
->>>>>>> bd325f842378def6e8e2d8238dee1638858bb955
