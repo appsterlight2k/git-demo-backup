@@ -5,4 +5,11 @@ of our song bla-bla-bla
 add one line more for testing "git merge" command without previously executed the command "git fetch" 
 the last one line in the song
 
+there are two more lines
+that I've added
 
+some more test line
+add something
+
+= new line for git reset testing 23:42
+= another new line for testing "git commit --amend" and try to perform by the console
