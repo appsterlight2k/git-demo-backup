@@ -8,4 +8,4 @@ the last one line in the song
 there are two more lines
 that I've added
 
-new verse 16:47
+new verse 16:47 - we comment this verse, at 12:30
