@@ -7,3 +7,5 @@ the last one line in the song
 
 there are two more lines
 that I've added
+
+another second verse that I've added in feature branch (it's actually the 3rd verse of our song)
