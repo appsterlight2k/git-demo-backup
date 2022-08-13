@@ -7,8 +7,3 @@ the last one line in the song
 
 there are two more lines
 that I've added
-
-new verse 16:47 - we comment this verse, at 12:30
-
-So we add the third couplet
-and make commit (in feature branch)
