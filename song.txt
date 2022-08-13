@@ -13,3 +13,5 @@ when we commit the lyrics.
 
 another second verse that I've added in feature branch (it's actually the 3rd verse of our song)
 
+edit text for tag only
+
